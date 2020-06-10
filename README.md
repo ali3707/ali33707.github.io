@@ -1,19 +1,8 @@
- # simple is beautiful    
- 
+ # Simple is beautiful    
 
-Blog 基于GitHub pages建立 
+ From  
+ * https://github.com/zshorz  
 
-
-
-* https://github.com/zshorz  
-
-
-
-
-
-
-
-## 友链  
 
 
 ### 香港路线  
@@ -23,3 +12,5 @@ Blog 基于GitHub pages建立
 ###	HeroKu 免费托管
 
 * https://createdrame5.herokuapp.com/
+
+![Image text](https://s0.xinger.ink/acgimg/acgurl.php)
