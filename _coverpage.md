@@ -1,7 +1,7 @@
 ![logo](img/avatar.svg ':size=100%')
-# kirito's blog
+# ali3707's blog
 
-<!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
+<!-- [GitHub](https://github.com/ali3707/ali3707.github.io/) -->
 <!-- [Get Started](README) -->
 [开始浏览](README)
 
