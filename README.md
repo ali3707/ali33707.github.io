@@ -1,10 +1,16 @@
 # 欢迎
-这是我的个人博客
-## 友链
+Blog 基于GitHub pages建立 
+fork自
+< https://github.com/zshorz
+
+
+< simple is beautiful
+## 友链  
+
 
 ###香港路线  
 
-* 103.148.244.205  
+* http://www.kkkk.cf/one/
 
 ###	HeroKu 免费托管
 
