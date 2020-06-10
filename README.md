@@ -4,11 +4,11 @@
 
 
 
-### 香港  
+### Hongkang  
 
 * http://www.kkkk.cf/one/
 
-###	HeroKu 免费
+###	HeroKu 
 
 * https://createdrame5.herokuapp.com/
 
