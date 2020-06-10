@@ -1,2 +1,2 @@
 * [返回](/README)
-* [个人网盘](/post/default/pan)
+* [pan](/post/default/pan)
