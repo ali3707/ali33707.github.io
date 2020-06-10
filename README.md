@@ -1,15 +1,14 @@
  # Simple is beautiful    
 
- From  
- * https://github.com/zshorz  
 
 
 
-### 香港路线  
+
+### 香港  
 
 * http://www.kkkk.cf/one/
 
-###	HeroKu 免费托管
+###	HeroKu 免费
 
 * https://createdrame5.herokuapp.com/
 
