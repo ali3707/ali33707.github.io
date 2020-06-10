@@ -5,7 +5,7 @@
 <!-- [Get Started](README) -->
 [开始浏览](README)
 
-![背景图片 ](img-floder/1.jpg ':size=100%') 
+![背景图片 ](img-floder/1.jpg ) 
 
 <!-- 1.自定义背景配置一定要在_coverpage.md文档末尾。
 2.背景图片和背景色只能有一个生效.
