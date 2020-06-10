@@ -1,11 +1,13 @@
-# 欢迎
+ # simple is beautiful    
+ 
+
 Blog 基于GitHub pages建立 
 
 
 
 * https://github.com/zshorz  
 
- # simple is beautiful  
+
 
 
 
