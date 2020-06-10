@@ -1,11 +1,11 @@
-
+<!--![logo](img/avatar.png ':size=100%')-->
 # ali3707's blog
 
 <!-- [GitHub](https://github.com/ali3707/ali3707.github.io/) -->
 <!-- [Get Started](README) -->
 [开始浏览](README)
 
-[背景图片 ](img-floder/1.jpg) 
+![背景图片 ](img-floder/1.jpg ':size=100%') 
 
 <!-- 1.自定义背景配置一定要在_coverpage.md文档末尾。
 2.背景图片和背景色只能有一个生效.
