@@ -1,12 +1,16 @@
 # 欢迎
 Blog 基于GitHub pages建立 
 
-fork  
-
-< https://github.com/zshorz
 
 
-*  simple is beautiful
+* https://github.com/zshorz  
+
+ # simple is beautiful  
+
+
+
+
+
 ## 友链  
 
 
