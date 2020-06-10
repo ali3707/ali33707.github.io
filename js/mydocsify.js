@@ -16,7 +16,7 @@ window.$docsify = {
   },
 
   //logo: 'http://avatars2.githubusercontent.com/u/35095041',
-  name: 'kirito',
+  name: 'ali3707',
 
   repo: 'https://github.com/ali3707', // 右上角github链接
 
