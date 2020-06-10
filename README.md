@@ -1,14 +1,16 @@
 # 欢迎
 Blog 基于GitHub pages建立 
-fork自
+
+fork  
+
 < https://github.com/zshorz
 
 
-< simple is beautiful
+*  simple is beautiful
 ## 友链  
 
 
-###香港路线  
+### 香港路线  
 
 * http://www.kkkk.cf/one/
 
