@@ -69,7 +69,7 @@ sidebar-avatar: /img/me2.jpg     # img前面加`/`绝对引用。
 friends: [
 	{
     title: "个人网盘",
-    href: "https://kkkk.cf/one"
+    href: "http://kkkk.cf/one"
   },
   {
     title: "heroku",
