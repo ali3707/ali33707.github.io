@@ -12,19 +12,19 @@
   name: "类别"
   icon: "fas fa-stream"
   path: tabs
-  url: categories
+  url: 种类
 -
   name: "标签"
   icon: "fas fa-tags"
   path: tabs
-  url: tags
+  url: 标签
 -
   name: "NONE"
   path: tabs
-  url: archives
+  url: 列别
   icon: "fas fa-archive"
 -
   name: "关于"
   icon: "fas fa-info"
   path: tabs
-  url: about
+  url: 关于

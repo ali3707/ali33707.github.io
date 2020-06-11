@@ -1,10 +1,10 @@
 ---
-title: Tags
+title: 标签
 
 # All the Tags of posts.
 # v2.0
 # https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
+# © 2017-2020 Cotes Chung
 # MIT License
 ---
 
