@@ -130,10 +130,10 @@ defaults:
       location: Tag
       breadcrumb:
         -
-          label: 主页
+          label: home
           url: /
         -
-          label: 标签
+          label:tags
           url: /tabs/tags/
   -
     scope:
@@ -143,10 +143,10 @@ defaults:
       location: Category
       breadcrumb:
         -
-          label: 主页
+          label: home
           url: /
         -
-          label: 标签
+          label: categories
           url: /tabs/categories/
   -
     scope:
@@ -156,7 +156,7 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: 主页
+          label: home
           url: /
 
 
