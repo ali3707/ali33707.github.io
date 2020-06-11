@@ -7,12 +7,12 @@
 
 -
   name: Home
-  icon: "fas fa-home"
+  icon: "fas fa-hhhh"
 -
-  name: Categories
+  name: werwer
   icon: "fas fa-stream"
   path: tabs
-  url: categories
+  url: werwer
 -
   name: "Tags"
   icon: "fas fa-tags"
