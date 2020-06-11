@@ -115,7 +115,7 @@ defaults:
       location: Post
       breadcrumb:
         -
-          label: Posts
+          label: "发表"
           url: /
   -
     scope:
@@ -130,10 +130,10 @@ defaults:
       location: Tag
       breadcrumb:
         -
-          label: home
+          label: "主页”
           url: /
         -
-          label:tags
+          label:“标签”
           url: /tabs/tags/
   -
     scope:
@@ -143,10 +143,10 @@ defaults:
       location: Category
       breadcrumb:
         -
-          label: home
+          label: “主页”
           url: /
         -
-          label: categories
+          label: “文件列表”
           url: /tabs/categories/
   -
     scope:
@@ -156,7 +156,7 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: home
+          label: “主页”
           url: /
 
 
