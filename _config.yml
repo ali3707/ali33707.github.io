@@ -1,11 +1,11 @@
-title: ZFB
-SEOTitle: ZFB 博客
-author: 晨曦
-timezone: Asia/Shanghai
+title: ali3707's blog
+SEOTitle: ali3707
+author: ali3707
+timezone: Asia/beijing
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 highlighter: rouge
-url: "https://blog.whuzfb.cn"
+url: "https://ali3707.github.io"
 baseurl: ""
 markdown: kramdown
 kramdown:
@@ -17,12 +17,12 @@ gems:
   - jekyll-feed
 
 # 国内用多
-disqus: zfb132
-disqus_base: http://blog.whuzfb.cn/
+disqus: ali3707
+disqus_base: https://ali3707.github.io/
 
 #Google Analytics https://developers.google.com/analytics/devguides/collection/analyticsjs/
 #去_layout/default.html的头文件中去设置.
-google_analytics_id: UA-97824262-2
+google_analytics_id: 
 google_analytics_domain: auto
 
 # 自定义永久链接
@@ -42,25 +42,25 @@ BASE_PATH:
 
 
 # SNS settings
-zhihu_username: zfb-chenxi
-weibo_username:     zfb132
+zhihu_username: 
+weibo_username:     
 facebook_username:
-github_username:    zfb132
+github_username:    ali3707
 google_username:
-RSS: feed.xml
-email: admin@whuzfb.cn
+RSS: 
+email: ali3707@qq.com
 linkedin:
 
 anchorjs: true                          # 修改在default.html->footer
 
 #畅言评论系统
 changyan: false
-cy_appid: cyt0r3DPA
-cy_conf: prod_9f689acf279f6cafa48eff93be14cdf6
+cy_appid: 
+cy_conf: 6
 
 
 # page Sidebar settings
-sidebar-about-description: "在代码的道路上渐行渐远"
+sidebar-about-description: "simple is beautiful"
 sidebar-avatar: /img/me2.jpg     # img前面加`/`绝对引用。
 
 
@@ -68,36 +68,28 @@ sidebar-avatar: /img/me2.jpg     # img前面加`/`绝对引用。
 # Friends
 friends: [
 	{
-    title: "CSDN",
-    href: "https://blog.csdn.net/qq_32507255/"
+    title: "个人网盘",
+    href: "https://kkkk.cf/one"
   },
   {
-    title: "博客园",
-    href: "https://www.cnblogs.com/zfb132/"
+    title: "heroku",
+    href: "https://createdrame5.herokuapp.com/"
   },
   {
-    title: "简书",
-    href: "https://www.jianshu.com/u/8ee7e271d4f5/"
+    title: "office",
+    href: "https://developer.microsoft.com/zh-cn/microsoft-365/profile"
   },
   {
-    title: "Jekyll",
+    title: "留空",
     href: "http://jekyllrb.com/docs/templates/"
   },
   {
-    title: "IconFont",
+    title: "留空",
     href: "http://www.iconfont.cn/"
   },
   {
-    title: "微信公众平台",
+    title: "留空",
     href: "https://mp.weixin.qq.com/wiki"
-  },
-  {
-    title: "Hux-模板来源",
-    href: "https://github.com/Huxpro/huxpro.github.io"
-  },
-  {
-    title: "brucezhaor",
-    href: "https://github.com/BruceZhaoR"
   }
 ]
 
