@@ -7,5 +7,5 @@ title: 关于
 # © 2017-2019 Cotes Chung
 # MIT License
 ---
-
+# 关于
 > **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.

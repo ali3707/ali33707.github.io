@@ -7,6 +7,7 @@ title: 标签
 # © 2017-2020 Cotes Chung
 # MIT License
 ---
+# 标签
 
 {% comment %}
   'site.tags' looks like a Map, e.g. site.tags.MyTag.[ Post0, Post1, ... ]

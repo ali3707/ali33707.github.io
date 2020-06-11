@@ -1,5 +1,5 @@
 ---
-title: Archives
+title:档案 
 
 # The Archives of posts.
 # v2.0
@@ -7,6 +7,7 @@ title: Archives
 # © 2017-2019 Cotes Chung
 # MIT License
 ---
+# 档案
 
 <div id="archives" class="pl-xl-2">
 {% for post in site.posts %}
