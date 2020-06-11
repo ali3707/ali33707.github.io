@@ -139,7 +139,7 @@ defaults:
     scope:
       path: categories
     values:
-      tab_active: Categories
+      tab_active: qqqqqqqqqqqqq
       location: Category
       breadcrumb:
         -
